@@ -27,6 +27,15 @@ El **Juego del Número Secreto** es una aplicación en la que el usuario debe ad
 
 ---
 
+
+🌐 **Demo en vivo:** [Jugar al Número Secreto](https://baezard.github.io/juego-secreto/)
+
+## 🖼️ Vista Previa
+
+![Vista previa del juego](img/preview.png)
+
+---
+
 ## 📂 Estructura del Repositorio
 
 ```text
@@ -35,12 +44,4 @@ juego-secreto/
 ├── index.html       # Estructura principal de la aplicación
 ├── style.css        # Hoja de estilos (BEM & Flexbox)
 ├── app.js           # Lógica del juego en JavaScript
-└── img/             # Imágenes y recursos gráficos (ia.png, Ruido.png, code.png)
-
-🌐 **Demo en vivo:** [Jugar al Número Secreto](https://baezard.github.io/juego-secreto/)
-
-## 🖼️ Vista Previa
-
-## 🖼️ Vista Previa
-
-![Vista previa del juego](img/preview.png)
+└── img/             # Imágenes y recursos gráficos (ia.png, Ruido.png, code.png, preview.png)
