@@ -36,3 +36,9 @@ juego-secreto/
 ├── style.css        # Hoja de estilos (BEM & Flexbox)
 ├── app.js           # Lógica del juego en JavaScript
 └── img/             # Imágenes y recursos gráficos (ia.png, Ruido.png, code.png)
+
+🌐 **Demo en vivo:** [Jugar al Número Secreto](https://baezard.github.io/juego-secreto/)
+
+## 🖼️ Vista Previa
+
+![Juego del Número Secreto](./img/preview.png)
