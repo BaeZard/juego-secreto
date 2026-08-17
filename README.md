@@ -41,4 +41,6 @@ juego-secreto/
 
 ## 🖼️ Vista Previa
 
-![Juego del Número Secreto](./img/preview.png)
+## 🖼️ Vista Previa
+
+![Vista previa del juego](img/preview.png)
